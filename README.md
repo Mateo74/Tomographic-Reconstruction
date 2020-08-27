@@ -1,4 +1,4 @@
-﻿# Reconstruction of tomographic images using minimum squares
+﻿# Reconstrucción de imágenes tomográficas usando cuadrados mínimos.
 
 ![Tomographic reconstruction result](aux/big-image-md.png)
 
@@ -52,4 +52,4 @@
 
 _______________________________________________________________________
 
-Este fue un trabajo para la materia Métodos numéricos, por Damián Huaier, Mateo Marenco, Daniel Salvia y Ezequiel Togno
+Este fue un trabajo para la materia Métodos numéricos, por Damián Huaier, Mateo Marenco, Daniel Salvia y Ezequiel Togno.
