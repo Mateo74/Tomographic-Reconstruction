@@ -12,7 +12,7 @@
 
   El formato de uso es el siguiente:
 
-  > ./tp3 <input> <output> <tamañocelda> <metodo> <nivel de ruido 1> <nivel de ruido 2> ... <nivel de ruido N>
+  > ./tp3 \<input> \<output> \<tamañocelda> \<metodo> \<nivel de ruido 1> \<nivel de ruido 2> ... \<nivel de ruido N>
 
   A continuación se detallan cada uno de los parámetros:
 
@@ -29,7 +29,7 @@
       Si se especifica un valor mayor a 2 se entiende como la cantidad de rayos aleatorios a generar.
 
    \<nivel de ruido 1, 2 ... N>: son todos los niveles de ruido (punto flotante) con los cuales se reconstruirá la imagen. Por cada nivel, el nombre
-  del archivo de salida será el indicado por el argumento <output> más un sufijo que es el nivel de ruido con el cual se generó.
+  del archivo de salida será el indicado por el argumento \<output> más un sufijo que es el nivel de ruido con el cual se generó.
 
   Ejemplos de uso:
 
@@ -46,3 +46,6 @@
 
     Esto genera tres archivos de salida, output_100.0.csv, output_200.0.csv y output_500.0.csv.
 
+_______________________________________________________________________
+
+Este fue un trabajo para la materia Métodos numéricos, por Damián Huaier, Mateo Marenco, Daniel Salvia y Ezequiel Togno
