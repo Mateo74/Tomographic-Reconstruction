@@ -1,4 +1,6 @@
-﻿- Instrucciones de compilación con GCC:
+﻿![Tomographic reconstruction result](aux/big-image-md.png)
+
+- Instrucciones de compilación con GCC:
 
   Para compilar el programa se debe ejecutar g++ de la siguiente manera:
 
