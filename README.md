@@ -1,4 +1,6 @@
-﻿![Tomographic reconstruction result](aux/big-image-md.png)
+﻿# Reconstruction of tomographic images using minimum squares
+
+![Tomographic reconstruction result](aux/big-image-md.png)
 
 - Instrucciones de compilación con GCC:
 
